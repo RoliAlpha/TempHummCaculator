@@ -1,0 +1,2 @@
+# TempHummCaculator
+TempHummCaculator sensor components for ardusensorplatform framework
